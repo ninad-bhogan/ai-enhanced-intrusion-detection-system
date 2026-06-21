@@ -133,7 +133,7 @@ python app.py
 ## 🔗 Project Resources
 
 * 💻 Source Code Repository: [https://github.com/ninad-bhogan/ai-enhanced-intrusion-detection-system](https://github.com/ninad-bhogan/ai-enhanced-intrusion-detection-system)
-* 🎥 Watch the Full Project Demo Video: [(https://drive.google.com/file/d/1Ze3ySLxm1GuyCuQ-IS7WIXZ4FZMlexUJ/view?usp=drive_link)](https://drive.google.com/file/d/1Ze3ySLxm1GuyCuQ-IS7WIXZ4FZMlexUJ/view?usp=drive_link)
+* 🎥 Watch the Full Project Demo Video: [(https://youtu.be/YO71-um3l-c?si=vqj2zDmdWR96Akab)](https://youtu.be/YO71-um3l-c?si=vqj2zDmdWR96Akab)
 
 ---
 
