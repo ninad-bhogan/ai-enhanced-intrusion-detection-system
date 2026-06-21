@@ -132,17 +132,17 @@ python app.py
 
 ## 🔗 Project Resources
 
-* 💻 Source Code Repository: [https://github.com/spsourabh17/ai-enhanced-intrusion-detection-system](https://github.com/spsourabh17/ai-enhanced-intrusion-detection-system)
+* 💻 Source Code Repository: [https://github.com/ninad-bhogan/ai-enhanced-intrusion-detection-system](https://github.com/ninad-bhogan/ai-enhanced-intrusion-detection-system)
 * 🎥 Watch the Full Project Demo Video: [(https://drive.google.com/file/d/1Ze3ySLxm1GuyCuQ-IS7WIXZ4FZMlexUJ/view?usp=drive_link)](https://drive.google.com/file/d/1Ze3ySLxm1GuyCuQ-IS7WIXZ4FZMlexUJ/view?usp=drive_link)
 
 ---
 
 ## 👨‍💻 Author
 
-**Sourabh Patil**
+**Ninad Bhogan**
 
-* 🔗 GitHub: [https://github.com/spsourabh17](https://github.com/spsourabh17)
-* 💼 LinkedIn: [https://www.linkedin.com/in/sourabh-patil-5242402b7](https://www.linkedin.com/in/sourabh-patil-5242402b7)
+* 🔗 GitHub: [https://github.com/ninad-bhogan]([https://github.com/spsourabh17](https://github.com/ninad-bhogan))
+* 💼 LinkedIn: [https://www.linkedin.com/in/ninad-bhogan-82266b240](https://www.linkedin.com/in/ninad-bhogan-82266b240)
 
 ---
 
